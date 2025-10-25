@@ -9,12 +9,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-trophies.vercel.app/?username=rushxbh910&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
-
-
-
 - 🔭 I'm currently working on **Designing and deploying robust ML solutions, advanced data analytics platforms, and AI-driven workflows for business and research use cases.**
 
 - 🌱 I'm currently learning **Developing end-to-end ML/DL workflows: infra automation (Terraform), data ingest, model lifecycle, CI/CD, Agile deployment, monitoring, and retraining.**
