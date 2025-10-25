@@ -7,12 +7,12 @@
        alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=rushxbh910&no-frame=true&margin-w=10&margin-h=10"
-         alt="GitHub trophies" />
-  </a>
-</p>
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rushxbh910&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 - 🔭 I'm currently working on **Designing and deploying robust ML solutions, advanced data analytics platforms, and AI-driven workflows for business and research use cases.**
