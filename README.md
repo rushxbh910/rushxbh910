@@ -2,9 +2,8 @@
 
 ### Specialist in data science, machine learning, and AI solutions with a focus on innovation and scalable system design
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushxbh910&label=Profile views&color=0e75b6&style=flat" alt="rushxbh910" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushxbh910" alt="rushxbh910" /></a> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=rushxbh910&label=Profile%20views&color=0e75b6&style=flat)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rushxbh910&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on **Designing and deploying robust ML solutions, advanced data analytics platforms, and AI-driven workflows for business and research use cases.**
 
